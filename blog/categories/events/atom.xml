@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Events | IWDev]]></title>
+  <link href="http://IWDev.github.com/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://IWDev.github.com/"/>
+  <updated>2012-10-27T01:21:06+01:00</updated>
+  <id>http://IWDev.github.com/</id>
+  <author>
+    <name><![CDATA[IWDev]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[IWDev #5]]></title>
+    <link href="http://IWDev.github.com/blog/2012/10/26/iwdev-number-5/"/>
+    <updated>2012-10-26T23:27:00+01:00</updated>
+    <id>http://IWDev.github.com/blog/2012/10/26/iwdev-number-5</id>
+    <content type="html"><![CDATA[<h3>Venue:</h3>
+
+<p>The Castle Inn, Newport, Isle of Wight - in their <code>private function</code> room. We're getting the venue for free, so hopefully we can show our appreciation by grabbing some dinner or something.</p>
+
+<p>A big thanks to Matt Stacey for that!</p>
+
+<h3>WiFi:</h3>
+
+<p>Yeah... about that!</p>
+
+<h3>Agenda:</h3>
+
+<p>We've got Carl Crawley (of <a href="http://www.madebyhippo.com">www.madebyhippo.com</a>) talking to us about Distributed Version Control Systems (or DVCS for short) - why they're awesome, and why we should all be using them; with examples using Git and Mecurial (Hg) and will be introducing us to online services like GitHub.</p>
+
+<p>The second presentation lined up will have a UX focus - details to be confirmed.</p>
+
+<p><strong>Can't wait to see you there!</strong></p>
+]]></content>
+  </entry>
+  
+</feed>
