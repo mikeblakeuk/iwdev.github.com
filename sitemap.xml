@@ -1,27 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://IWDev.github.com/blog/2012/10/26/iwdev-gets-a-website/</loc>
-        <lastmod>2012-10-27T01:17:15+01:00</lastmod>
+        <loc>http://iwdev.github.com/blog/2012/10/26/iwdev-gets-a-website/</loc>
+        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
     </url>
     <url>
-        <loc>http://IWDev.github.com/blog/2012/10/26/iwdev-number-5/</loc>
-        <lastmod>2012-10-27T01:17:15+01:00</lastmod>
+        <loc>http://iwdev.github.com/blog/2012/10/26/iwdev-number-5/</loc>
+        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
     </url>
     <url>
-        <loc>http://IWDev.github.com/about/</loc>
-        <lastmod>2012-10-27T01:17:15+01:00</lastmod>
+        <loc>http://iwdev.github.com/blog/2012/11/05/iwdev-6-the-christmas-one/</loc>
+        <lastmod>2012-11-05T20:33:55+00:00</lastmod>
     </url>
     <url>
-        <loc>http://IWDev.github.com/blog/archives/</loc>
-        <lastmod>2012-10-27T01:17:15+01:00</lastmod>
+        <loc>http://iwdev.github.com/about/</loc>
+        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
     </url>
     <url>
-        <loc>http://IWDev.github.com/</loc>
-        <lastmod>2012-10-27T01:17:15+01:00</lastmod>
+        <loc>http://iwdev.github.com/blog/archives/</loc>
+        <lastmod>2012-11-05T20:33:55+00:00</lastmod>
     </url>
     <url>
-        <loc>http://IWDev.github.com/sponsors/</loc>
-        <lastmod>2012-10-27T01:17:15+01:00</lastmod>
+        <loc>http://iwdev.github.com/</loc>
+        <lastmod>2012-11-05T20:33:55+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iwdev.github.com/sponsors/</loc>
+        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
     </url>
 </urlset>

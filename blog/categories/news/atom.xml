@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: News | IWDev]]></title>
-  <link href="http://IWDev.github.com/blog/categories/news/atom.xml" rel="self"/>
-  <link href="http://IWDev.github.com/"/>
-  <updated>2012-10-27T01:21:06+01:00</updated>
-  <id>http://IWDev.github.com/</id>
+  <link href="http://iwdev.github.com/blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://iwdev.github.com/"/>
+  <updated>2012-11-05T20:37:51+00:00</updated>
+  <id>http://iwdev.github.com/</id>
   <author>
     <name><![CDATA[IWDev]]></name>
     
@@ -14,11 +14,62 @@
 
   
   <entry>
+    <title type="html"><![CDATA[IWDev #6 - the Christmas One]]></title>
+    <link href="http://iwdev.github.com/blog/2012/11/05/iwdev-6-the-christmas-one/"/>
+    <updated>2012-11-05T20:29:00+00:00</updated>
+    <id>http://iwdev.github.com/blog/2012/11/05/iwdev-6-the-christmas-one</id>
+    <content type="html"><![CDATA[<h3>When:</h3>
+
+<p>19:30 - Tuesday 4th December</p>
+
+<h3>Venue:</h3>
+
+<p>The Castle Inn, Newport, Isle of Wight - in their <code>private function</code> room. We're getting the venue for free, so hopefully we can show our appreciation by grabbing some dinner or something.</p>
+
+<p>A big thanks to Matt Stacey for that!</p>
+
+<h3>WiFi:</h3>
+
+<p>Yeah... about that!</p>
+
+<h3>Agenda:</h3>
+
+<h4>Chistmas!</h4>
+
+<p>It'll be less than a month until Christmas, and #IWDev 7 won't be until 2013. Let's have a little celebration!</p>
+
+<h4>Session One - The Ruby Way</h4>
+
+<p>Our Brian Prior is going to give an introduction to the Ruby programming language, using examples of how to understand and leverage the concepts that the language brings to the table.</p>
+
+<h4>Session Two - The Cloud (think of the poor bunnies)</h4>
+
+<p>Something of an "experimental" session that will take the form of a "group" discussion (which will hopefully lead to more detail presentations in 2013). The topic of the discussion is "the cloud":</p>
+
+<ul>
+<li>What is this buzz word? What is the cloud?</li>
+<li>Differences between Software as a Service (Saas) and Hardware as a Service (HaaS).</li>
+<li>What benefits are there? (scalability, elasticity and redundancy)</li>
+<li>What drawbacks are there? (<em>potentially</em> high costs, data ownership, legal issues and compliance)</li>
+<li>When should you use the cloud?</li>
+<li>When should you not use the cloud?</li>
+<li>Hybrid architectures? (cloud + data centre)</li>
+<li>How can we design software to live in the cloud in a way we can leverage it's power?</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[IWDev #5]]></title>
-    <link href="http://IWDev.github.com/blog/2012/10/26/iwdev-number-5/"/>
+    <link href="http://iwdev.github.com/blog/2012/10/26/iwdev-number-5/"/>
     <updated>2012-10-26T23:27:00+01:00</updated>
-    <id>http://IWDev.github.com/blog/2012/10/26/iwdev-number-5</id>
-    <content type="html"><![CDATA[<h3>Venue:</h3>
+    <id>http://iwdev.github.com/blog/2012/10/26/iwdev-number-5</id>
+    <content type="html"><![CDATA[<h3>When:</h3>
+
+<p>19:30 - Tuesday 6th November</p>
+
+<h3>Venue:</h3>
 
 <p>The Castle Inn, Newport, Isle of Wight - in their <code>private function</code> room. We're getting the venue for free, so hopefully we can show our appreciation by grabbing some dinner or something.</p>
 
@@ -40,9 +91,9 @@
   
   <entry>
     <title type="html"><![CDATA[#IWDev gets a website!]]></title>
-    <link href="http://IWDev.github.com/blog/2012/10/26/iwdev-gets-a-website/"/>
+    <link href="http://iwdev.github.com/blog/2012/10/26/iwdev-gets-a-website/"/>
     <updated>2012-10-26T22:24:00+01:00</updated>
-    <id>http://IWDev.github.com/blog/2012/10/26/iwdev-gets-a-website</id>
+    <id>http://iwdev.github.com/blog/2012/10/26/iwdev-gets-a-website</id>
     <content type="html"><![CDATA[<p>Its probably about time! A group of tech-savvy web/software developers really had no excuse, right?</p>
 
 <p>I've taken the approach of minimal effort, maximum reward. So I'm using as many cool new tools and services that I can.</p>
