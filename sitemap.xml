@@ -2,30 +2,34 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://iwdev.github.com/blog/2012/10/26/iwdev-gets-a-website/</loc>
-        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
+        <lastmod>2012-11-06T08:58:45+00:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/10/26/iwdev-number-5/</loc>
-        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
+        <lastmod>2012-11-06T08:58:45+00:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/11/05/iwdev-6-the-christmas-one/</loc>
-        <lastmod>2012-11-05T20:43:18+00:00</lastmod>
+        <lastmod>2012-11-06T08:58:45+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iwdev.github.com/blog/2012/11/06/web-design-compeition/</loc>
+        <lastmod>2012-11-06T12:33:14+00:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/about/</loc>
-        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
+        <lastmod>2012-11-06T08:58:45+00:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/archives/</loc>
-        <lastmod>2012-11-05T20:43:18+00:00</lastmod>
+        <lastmod>2012-11-06T12:33:14+00:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/</loc>
-        <lastmod>2012-11-05T20:43:18+00:00</lastmod>
+        <lastmod>2012-11-06T12:33:14+00:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/sponsors/</loc>
-        <lastmod>2012-11-05T20:24:01+00:00</lastmod>
+        <lastmod>2012-11-06T08:58:45+00:00</lastmod>
     </url>
 </urlset>

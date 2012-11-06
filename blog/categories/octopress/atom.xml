@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | IWDev]]></title>
+  <link href="http://iwdev.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://iwdev.github.com/"/>
+  <updated>2012-11-06T13:23:13+00:00</updated>
+  <id>http://iwdev.github.com/</id>
+  <author>
+    <name><![CDATA[IWDev]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The #IWDev Web Design Competition!]]></title>
+    <link href="http://iwdev.github.com/blog/2012/11/06/web-design-compeition/"/>
+    <updated>2012-11-06T13:05:00+00:00</updated>
+    <id>http://iwdev.github.com/blog/2012/11/06/web-design-compeition</id>
+    <content type="html"><![CDATA[<p>I think it would be cool to try and encourage some friendly competition in the #IWDev community. It's a great reason to try your hand at something you don't perhaps specialise in - and in fact, might not even be remotely comfortable with! It's also a great reason to group together in small teams and collaborate, helping to spur each other on to achieve something.</p>
+
+<p>So that's why we're launching our first #IWDev Competition! <!--More--></p>
+
+<p>Take a look at these few presentation slides for more competition details!</p>
+
+<script async class="speakerdeck-embed" data-id="5099029b99698b000201fb6c" data-ratio="1.3333333333333333" src="http://iwdev.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+
+<br /><br />
+
+
+<h2>Entering</h2>
+
+<p>To enter the competition, you just need to Fork the <a href="https://github.com/IWDev/iwdev.github.com">IWDev website on GitHub</a>.</p>
+
+<p>You final submission must be Pushed back to GitHub, and then open a Pull Request back to the master Repository before <a href="/blog/2012/11/05/iwdev-6-the-christmas-one/">IWDev #6</a>.</p>
+
+<p>Carl Crawley's presentation on Git will help with this process, but you can also find out more at <a href="http://training.github.com/">GitHub Training</a>.</p>
+
+<h2>Octopress</h2>
+
+<p>The website is built using <a href="http://octopress.org">Octopress</a>. It is a static website generator built in Ruby.</p>
+
+<p>Hopefully you'll be able to use the instructions on the Octopress website to get the IWDev website up and running - I know several members of the IWDev community (myself included) know how to get it up and running (and the documentation is pretty excellent).</p>
+
+<p>This might be where working as a Team rather than an individual might help... be sure to team up with somebody who's comfortable with it.</p>
+
+<p>I'll add more help and documentation here as and when the requirement arises.</p>
+]]></content>
+  </entry>
+  
+</feed>
