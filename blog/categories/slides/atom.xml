@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Slides | IWDev]]></title>
+  <link href="http://iwdev.github.com/blog/categories/slides/atom.xml" rel="self"/>
+  <link href="http://iwdev.github.com/"/>
+  <updated>2012-11-07T11:58:35+00:00</updated>
+  <id>http://iwdev.github.com/</id>
+  <author>
+    <name><![CDATA[IWDev]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[IWDev #5 - UX: The Common Sense Approach]]></title>
+    <link href="http://iwdev.github.com/blog/2012/11/07/ux-the-common-sense-approach/"/>
+    <updated>2012-11-07T10:21:00+00:00</updated>
+    <id>http://iwdev.github.com/blog/2012/11/07/ux-the-common-sense-approach</id>
+    <content type="html"><![CDATA[<p>Presented last night at <strong>IWDev #5</strong> by <strong>John Godwin</strong> (of <a href="http://www.summit.co.uk">Summit Media</a>).</p>
+
+<script async class="speakerdeck-embed" data-id="509a34f31eeb970002034a16" data-ratio="1.3333333333333333" src="http://iwdev.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+
+<br /><br />
+
+
+<p>John also included a 15 minute pen &amp; paper exercise for the group that went down very well (there are details in the slides, above). If any of those end up online somewhere... I'll be sure to add a link to them here.</p>
+]]></content>
+  </entry>
+  
+</feed>
