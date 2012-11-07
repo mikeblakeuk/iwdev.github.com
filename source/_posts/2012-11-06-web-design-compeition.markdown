@@ -12,7 +12,7 @@ So that's why we're launching our first #IWDev Competition! <!--More-->
 
 Take a look at these few presentation slides for more competition details!
 
-<script async class="speakerdeck-embed" data-id="5099029b99698b000201fb6c" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="509947366f8e720002031886" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <br /><br />
 
