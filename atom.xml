@@ -4,7 +4,7 @@
   <title><![CDATA[IWDev]]></title>
   <link href="http://iwdev.github.com/atom.xml" rel="self"/>
   <link href="http://iwdev.github.com/"/>
-  <updated>2012-11-07T12:34:16+00:00</updated>
+  <updated>2012-11-08T08:56:26+00:00</updated>
   <id>http://iwdev.github.com/</id>
   <author>
     <name><![CDATA[IWDev]]></name>
@@ -12,6 +12,136 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Website Competition Help]]></title>
+    <link href="http://iwdev.github.com/blog/2012/11/07/website-competition-help/"/>
+    <updated>2012-11-07T12:57:00+00:00</updated>
+    <id>http://iwdev.github.com/blog/2012/11/07/website-competition-help</id>
+    <content type="html"><![CDATA[<p>I&#8217;m quite aware that the competition has several potential knowledge barriers. I am hoping that it participating will help in learning and installing a few different things (learning is fun, right?) - but I understand that time isn&#8217;t cheap and we don&#8217;t all have much of it. So I&#8217;ve put together a little step-by-step how-to to help you on your way. In honesty I&#8217;ve only tested this process on Windows 7 - but I think that it is pretty sound.</p>
+
+<!--more-->
+
+
+<h3>1. Pre-requisites</h3>
+
+<p><strong>Ruby 1.9.3 Runtime and Development Environment</strong></p>
+
+<ul>
+<li><a href="http://octopress.org/docs/setup/rbenv/">Rbenv</a>, or</li>
+<li><a href="http://octopress.org/docs/setup/rvm/">RVM</a>, or</li>
+<li>If you&#8217;re on Windows it is easier to use <a href="http://rubyinstaller.org/">RubyInstaller</a> with <a href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit">The Ruby DevKit</a>.</li>
+</ul>
+
+
+<h3>2. Get the IWDev Website from GitHub</h3>
+
+<ul>
+<li>Go to <code>https://github.com/IWDev</code> in your favourite browser.</li>
+<li>Click on the <code>iwdev.github.com</code> repository in the list.</li>
+<li>Click on the <code>Fork</code> button at the top right - this will copy the entire IWDev website repository to your very own private version of the website.</li>
+<li>Clone your version of the IWDev website down to a local working folder on your computer:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git clone git://github.com/&gt;your_github_username&lt;/iwdev.github.com.git IWDev-Website</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Go into the local working folder:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>cd IWDev-Website/</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Double check which version of Ruby you have installed (and double check that it is on your path!) - it should report 1.9.3:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>ruby --version</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Install the Bundler Ruby gem:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>gem install bundler</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Run the bundler install task:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>bundle install</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Generate the website from the source code:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake generate</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Confirm that it has all worked, running the self-hosting preview server:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake preview</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Preview the generated website in your favourite browser at <code>http://localhost:4000/</code></li>
+</ul>
+
+
+<h3>3. Working with Octopress</h3>
+
+<p>Assuming that you&#8217;re on the <code>source</code> branch of the repo, there is a <code>source/</code> directory in the root of working folder. In there is everything that you really need to edit: css, javascript, html, includes etc.</p>
+
+<p>Here is a list of useful links to also help you on your way:</p>
+
+<ul>
+<li><a href="http://octopress.org/docs/theme/">Theming &amp; Customization</a></li>
+<li><a href="http://octopress.org/docs/blogging/">Editing Content (Blog Posts &amp; Pages)</a></li>
+<li><a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">3rd Party Themes</a></li>
+<li><a href="https://github.com/imathis/octopress/wiki/3rd-party-plugins">3rd Party Plugins</a></li>
+</ul>
+
+
+<p>&#8230;and when you&#8217;ve made changes:</p>
+
+<ul>
+<li>Generate the website from the source code:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake generate</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Confirm that it has all worked, running the self-hosting preview server:</li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake preview</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IWDev #5 - UX: The Common Sense Approach]]></title>
