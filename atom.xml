@@ -4,7 +4,7 @@
   <title><![CDATA[IWDev]]></title>
   <link href="http://iwdev.github.com/atom.xml" rel="self"/>
   <link href="http://iwdev.github.com/"/>
-  <updated>2012-11-08T09:08:59+00:00</updated>
+  <updated>2012-12-05T17:11:12+00:00</updated>
   <id>http://iwdev.github.com/</id>
   <author>
     <name><![CDATA[IWDev]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IWDev #6 - The Ruby Way]]></title>
+    <link href="http://iwdev.github.com/blog/2012/12/05/the-ruby-way/"/>
+    <updated>2012-12-05T16:57:00+00:00</updated>
+    <id>http://iwdev.github.com/blog/2012/12/05/the-ruby-way</id>
+    <content type="html"><![CDATA[<p>Presented last night at <strong>IWDev #6</strong> by <strong>Brian Prior</strong>.</p>
+
+<script async class="speakerdeck-embed" data-id="44cd4a00212a01307dcb22000a1d01dc" data-ratio="1.33333333333333" src="http://iwdev.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+
+<br /><br />
+
+
+<p>The code examples that follow these slides can be found <a href="https://github.com/IWDev/IWDev6-TheRubyWay">on GitHub</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Website Competition Help]]></title>
