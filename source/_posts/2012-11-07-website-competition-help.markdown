@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-I'm quite aware that the competition has several potential knowledge barriers. I am hoping that it participating will help in learning and installing a few different things (learning is fun, right?) - but I understand that time isn't cheap and we don't all have much of it. So I've put together a little step-by-step how-to to help you on your way. In honesty I've only tested this process on Windows 7 - but I think that it is pretty sound.
+I'm quite aware that the competition has several potential knowledge barriers. I am hoping that in participating will help in learning and installing a few different things (learning is fun, right?) - but I understand that time isn't cheap and we don't all have much of it. So I've put together a little step-by-step how-to to help you on your way. In honesty I've only tested this process on Windows 7 - but I think that it is pretty sound.
 
 <!--more-->
 
