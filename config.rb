@@ -1,4 +1,4 @@
-# Require any additional compass plugins here.
+# Require any additional compass plugins here. Test CI
 project_type = :stand_alone
 
 # Publishing paths
